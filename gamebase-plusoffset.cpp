@@ -3,6 +3,7 @@
 #include <TlHelp32.h>
 
 // Prefered Image Base Address: 0x00400000
+// Fixed Module Pointer: 0x38F7E4
 
 DWORD GetBaseAddress(DWORD processId)
 {
