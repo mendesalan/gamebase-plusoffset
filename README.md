@@ -1,1 +1,1 @@
-# Game Hacking, Reverse Engineering strategies and techniques. 
+## Game Hacking / Reverse Engineering strategies and techniques. 
